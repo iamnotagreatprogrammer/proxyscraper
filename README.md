@@ -1,4 +1,4 @@
-# proxyscraper
+# Simple Proxy Scraper
 Simple Proxy Scraper
 
 This simple proxy scraper allows the user to scrape proxies from four different sites to a CSV filename and directory they chose.
